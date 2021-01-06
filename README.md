@@ -100,4 +100,4 @@ And it wasn't too bad either. A little bit of Visual, a little bit of messing ar
 
 In the next, and final, episode we'll be putting our app through some DevOps so we can deploy it!
 added a new line to test CI
-CD enabled
+CD enabled with proper changes....
