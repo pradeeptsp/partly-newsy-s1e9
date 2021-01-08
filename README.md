@@ -1,4 +1,6 @@
-New line added to check the version Number
+#New line added to check the version Number
+
+
 Welcome back to Partly Cloudy! The show where you learn how to build a cloud-connected Xamarin mobile application. We start from nothing and don't quit until it's ready for the App Store!
 
 Go ahead and download all the code from [GitHub](https://github.com/codemillmatt/partly-newsy-s1e9) - you're going to need it to follow along!
